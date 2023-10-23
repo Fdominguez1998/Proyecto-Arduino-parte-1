@@ -12,7 +12,7 @@ Dominguez Franco.
 
 ------------
 
-imagen de la parte 1
+[![Arduino-1.png](https://i.postimg.cc/XJsz1D0L/Arduino-1.png)](https://postimg.cc/qhCwzwq6)
 
 ####  Descripcion
 

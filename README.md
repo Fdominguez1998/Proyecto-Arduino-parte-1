@@ -1,21 +1,21 @@
-Proyecto en Arduino
+# Proyecto en Arduino
 
 [![Arduino-presentacion.jpg](https://i.postimg.cc/P5Rf0hmp/Arduino-presentacion.jpg)](https://postimg.cc/yD0zSMps)
 
-#### Integrantes
+### Integrantes
 
 ------------
 Daraio Camila.
 Dominguez Franco.
 
  
-#### Proyecto contador Binario.
+###  Proyecto contador Binario.
 
 ------------
 
 [![Arduino-1.png](https://i.postimg.cc/XJsz1D0L/Arduino-1.png)](https://postimg.cc/qhCwzwq6)
 
-####  Descripcion
+###  Descripcion
 
 ------------
 

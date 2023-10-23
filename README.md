@@ -27,6 +27,8 @@ Diseñamos un contador de 0 a 99 utilizando dos displays de 7 segmentos y tres b
 
 ### Funcion principal
 
+------------
+
 La principal finalidad de este proyecto es operar un visualizador de 7 segmentos mediante tres botones conectados a una placa Arduino. Cada uno de estos botones tiene un propósito específico:
 
 1. Botón de Aumento (Botón 4): Incrementa el contador, permitiendo un máximo de 99 como valor.

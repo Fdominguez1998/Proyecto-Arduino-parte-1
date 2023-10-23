@@ -5,8 +5,9 @@
 ### Integrantes
 
 ------------
-Daraio Camila.
-Dominguez Franco.
+
+- Daraio Camila.
+- Dominguez Franco.
 
  
 ###  Proyecto contador Binario.

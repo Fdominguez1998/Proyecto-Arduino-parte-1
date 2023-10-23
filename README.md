@@ -10,7 +10,7 @@
 - Dominguez Franco.
 
  
-###  Proyecto contador Binario.
+###  Proyecto visualizador 7 segmentos.
 
 ------------
 
@@ -79,3 +79,24 @@ int keypressed(void)
 
  }
 ```
+
+------------
+
+###  Link al Proyecto
+
+------------
+
+[Link](https://www.tinkercad.com/things/i4w00k018sJ-tp-parte-2-/editel?sharecode=2ExBk70DXcq03s4Z7L7gS3aZWhCGc5nt2JdNow4ZJ7A)https://www.tinkercad.com/things/i4w00k018sJ-tp-parte-2-/editel?sharecode=2ExBk70DXcq03s4Z7L7gS3aZWhCGc5nt2JdNow4ZJ7A
+
+------------
+
+### Fuentes
+
+------------
+https://www.youtube.com/watch?v=_Ry7mtURGDE&list=PL7LaR6_A2-E11BQXtypHMgWrSR-XOCeyD&index=4&ab_channel=UTNFRA
+
+------------
+
+
+
+
